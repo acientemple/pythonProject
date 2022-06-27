@@ -1,0 +1,74 @@
+status: 200
+connection: keep-alive
+content-length: 2277
+server: GitHub.com
+content-type: text/html; charset=utf-8
+last-modified: Fri, 25 Mar 2022 14:20:06 GMT
+access-control-allow-origin: *
+etag: W/"623dcf96-8e5"
+expires: Sat, 11 Jun 2022 03:55:51 GMT
+cache-control: max-age=600
+x-proxy-cache: MISS
+x-github-request-id: CEEC:7CBD:3420E:7AEF6:62A40FEE
+accept-ranges: bytes
+date: Sat, 11 Jun 2022 04:48:24 GMT
+via: 1.1 varnish
+age: 0
+x-served-by: cache-hkg17924-HKG
+x-cache: HIT
+x-cache-hits: 1
+x-timer: S1654922904.799714,VS0,VE262
+vary: Accept-Encoding
+x-fastly-request-id: 1c11bfd0584315c0ed4f8ba47e254b1b2e40f52d
+-content-encoding: gzip
+content-location: https://www.nltk.org/book/
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <title>NLTK Book</title>
+  <link href="../default.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+
+<h1>Natural Language Processing with Python</h1>
+<h2>– Analyzing Text with the Natural Language Toolkit</h2>
+
+<b>Steven Bird, Ewan Klein, and Edward Loper</b>
+
+<p>
+<i>This version of the NLTK book is updated for Python 3 and NLTK 3.
+  The first edition of the book, published by O'Reilly, is available at
+  <a href="http://nltk.org/book_1ed/">http://nltk.org/book_1ed/</a>.
+  (There are currently no plans for a second edition of the book.)
+</i>
+</p>
+
+<dl>
+<dd>0. <a href="ch00.html">Preface</a></dd>
+<dd>1. <a href="ch01.html">Language Processing and Python</a></dd>
+<dd>2. <a href="ch02.html">Accessing Text Corpora and Lexical Resources</a></dd>
+<dd>3. <a href="ch03.html">Processing Raw Text</a></dd>
+<dd>4. <a href="ch04.html">Writing Structured Programs</a></dd>
+<dd>5. <a href="ch05.html">Categorizing and Tagging Words</a> (minor fixes still required)</dd>
+<dd>6. <a href="ch06.html">Learning to Classify Text</a></dd>
+<dd>7. <a href="ch07.html">Extracting Information from Text</a></dd>
+<dd>8. <a href="ch08.html">Analyzing Sentence Structure</a></dd>
+<dd>9. <a href="ch09.html">Building Feature Based Grammars</a></dd>
+<dd>10. <a href="ch10.html">Analyzing the Meaning of Sentences</a> (minor fixes still required)</dd>
+<dd>11. <a href="ch11.html">Managing Linguistic Data</a> (minor fixes still required)</dd>
+<dd>12. <a href="ch12.html">Afterword: Facing the Language Challenge</a></dd>
+<dt><a href="bibliography.html">Bibliography</a> <br/> <a href="term_index.html">Term Index</a></dt>
+</dl>
+
+<br/>
+<i>This book is made available under the terms of the <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/">Creative Commons Attribution Noncommercial No-Derivative-Works 3.0 US License</a>.
+<br/>
+Please post any questions about the materials to the <a href="http://groups.google.com/group/nltk-users">nltk-users</a> mailing list.
+Please report any errors on the <a href="https://github.com/nltk/nltk_book/issues">issue tracker</a>.
+
+</body>
+</html>
